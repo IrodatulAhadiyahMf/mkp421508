@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>RESUME DYNAMIC SYSTEM</title>
 </head>
 <body>
 <h3>Nama : Irodatul Ahadiyah Mf
